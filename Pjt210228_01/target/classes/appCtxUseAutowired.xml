@@ -10,14 +10,18 @@
 
 	<context:annotation-config />
 
-	<bean id="wordDao" class="com.word.dao.WordDao" />
-	
-	<bean id="registerService" class="com.word.service.WordRegisterService">
-<!--		<constructor-arg ref="wordDao" />-->
+	<bean id="wordDao1" class="com.word.dao.WordDao" >
+<!--		<qualifier value="usedDao"/>-->
 	</bean>
-	
-	<bean id="searchService" class="com.word.service.WordSearchService">
+	<bean id="wordDao2" class="com.word.dao.WordDao" />
+	<bean id="wordDao3" class="com.word.dao.WordDao" />
+
+	<bean id="registerService" class="com.word.service.WordRegisterService" />
 <!--		<constructor-arg ref="wordDao" />-->
-	</bean>
+<!--	</bean>-->
+	
+	<bean id="searchService" class="com.word.service.WordSearchService" />
+<!--		<constructor-arg ref="wordDao" />-->
+<!--	</bean>-->
 	
 </beans>
