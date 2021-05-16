@@ -2,6 +2,7 @@ package com.springDev.Pjt210514_01.member.controller;
 
 import javax.servlet.http.HttpServletRequest;
 
+import com.springDev.Pjt210514_01.member.Member;
 import com.springDev.Pjt210514_01.member.service.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
