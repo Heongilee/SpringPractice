@@ -6,8 +6,8 @@
 </head>
 <body>
 	<h1> memLoginOk </h1>
-	ID : ${memId}<br />
-	PW : ${memPw}<br />
+	ID : ${member.memId}<br />
+	PW : ${member.memPw}<br />
 	
 	<a href="/resources/html/index.html"> Go Main </a>
 </body>

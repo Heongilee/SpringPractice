@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fcf9252-b352-44a0-94ca-094a1bccb767" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Pjt210228_01/target/classes/appCtx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210228_01/target/classes/appCtxUseAutowired.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210228_01/target/classes/com/word/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210228_01/target/classes/com/word/MainClassUseAutowired.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210228_01/target/classes/com/word/WordSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210228_01/target/classes/com/word/dao/WordDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210228_01/target/classes/com/word/service/WordRegisterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210228_01/target/classes/com/word/service/WordSearchService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_01/target/classes/appCtx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_01/target/classes/com/brms/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_01/target/classes/com/brms/book/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_01/target/classes/com/brms/book/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_01/target/classes/com/brms/book/service/BookRegisterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_01/target/classes/com/brms/book/service/BookSearchService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_01/target/classes/com/brms/member/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_01/target/classes/com/brms/member/dao/MemberDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_01/target/classes/com/brms/member/service/MemberRegisterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_01/target/classes/com/brms/member/service/MemberSearchService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/appCtx1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/appCtx2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/appCtx3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/appCtxImport.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/DataBaseConnectionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/MainClassUseConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/MainClassUseXML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/MainClassUseXMLs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/StudentAssembler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/configration/MemberConfig$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/configration/MemberConfig$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/configration/MemberConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/dao/StudentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/service/EMSInformationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/service/StudentAllSelectService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/service/StudentDeleteService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/service/StudentModifyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/service/StudentRegisterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210308_02/target/classes/ems/member/service/StudentSelectService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/appCtx1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/appCtx2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/appCtx3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/appCtxImport.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/DataBaseConnectionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/MainClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/MainClassUseConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/MainClassUseConfigurationImport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/MainClassUseConfigurations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/MainClassUseXML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/MainClassUseXMLs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/StudentAssembler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/configration/MemberConfig$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/configration/MemberConfig$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/configration/MemberConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/configration/MemberConfig01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/configration/MemberConfig02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/configration/MemberConfig03$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/configration/MemberConfig03$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/configration/MemberConfig03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/dao/StudentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/service/EMSInformationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/service/StudentAllSelectService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/service/StudentDeleteService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/service/StudentModifyService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/service/StudentRegisterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210316_01/target/classes/ems/member/service/StudentSelectService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210511_03/target/classes/com/springmvc/pjt210511_03/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210514_01/target/classes/com/springDev/Pjt210514_01/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210514_01/target/classes/com/springdev/helloSpringMvc/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/src/main/java/com/springDev/Pjt210516_01/member/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pjt210516_01/src/main/java/com/springDev/Pjt210516_01/member/controller/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/src/main/webapp/WEB-INF/views/memLoginOk.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Pjt210516_01/src/main/webapp/WEB-INF/views/memLoginOk.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/Pjt210516_01-1.0.0-BUILD-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../Pjt210516_01/target/Pjt210516_01-1.0.0-BUILD-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/Pjt210516_01-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springDev/Pjt210516_01/member/controller/MemberController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Pjt210516_01/target/Pjt210516_01-1.0.0-BUILD-SNAPSHOT/WEB-INF/classes/com/springDev/Pjt210516_01/member/controller/MemberController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/Pjt210516_01-1.0.0-BUILD-SNAPSHOT/WEB-INF/views/memLoginOk.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Pjt210516_01/target/Pjt210516_01-1.0.0-BUILD-SNAPSHOT/WEB-INF/views/memLoginOk.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/com/bs/lec17/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/com/bs/lec17/member/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/com/bs/lec17/member/controller/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/com/bs/lec17/member/dao/IMemberDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/com/bs/lec17/member/dao/MemberDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/com/bs/lec17/member/service/IMemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/com/bs/lec17/member/service/MemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/com/springDev/Pjt210516_01/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/com/springDev/Pjt210516_01/member/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/com/springDev/Pjt210516_01/member/controller/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/com/springDev/Pjt210516_01/member/dao/IMemberDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/com/springDev/Pjt210516_01/member/dao/MemberDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/com/springDev/Pjt210516_01/member/service/IMemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/com/springDev/Pjt210516_01/member/service/MemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/classes/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pjt210516_01/target/test-classes/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloSpringMvc/target/classes/com/springDev/Pjt210513_01/HomeController.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1t67Yt9N2SBcsh9AwSWtc4DndbK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fcf9252-b352-44a0-94ca-094a1bccb767" name="Default Changelist" comment="" />
+      <created>1622077737820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622077737820</updated>
+      <workItem from="1622077739728" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

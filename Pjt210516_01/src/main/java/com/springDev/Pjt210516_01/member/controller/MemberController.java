@@ -40,19 +40,19 @@ public class MemberController {
 	}
 
 	@RequestMapping(value="/memLogin", method=RequestMethod.POST)
-	public String memLogin(Model model, @RequestParam("memId") String memId, @RequestParam("memPw") String memPw) {
-
+	public String memLogin(Member member) {
+//	public String memLogin(Model model, @RequestParam("memId") String memId, @RequestParam("memPw") String memPw) {
 //		String memId = request.getParameter("memId");
 //		String memPw = request.getParameter("memPw");
 
-		Member member = service.memberSearch(memId, memPw);
+		Member myMember = service.memberSearch(member.getMemId(), member.getMemPw());
 
-		try {
-			model.addAttribute("memId", member.getMemId());
-			model.addAttribute("memPw", member.getMemPw());
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+//		try {
+//			model.addAttribute("memId", member.getMemId());
+//			model.addAttribute("memPw", member.getMemPw());
+//		} catch (Exception e) {
+//			e.printStackTrace();
+//		}
 
 		return "memLoginOk";
 	}
