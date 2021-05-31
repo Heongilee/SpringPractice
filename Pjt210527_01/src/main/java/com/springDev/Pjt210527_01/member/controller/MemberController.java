@@ -66,7 +66,6 @@ public class MemberController {
 		return "memModifyOk";
 	}
 	*/
-
 	
 	@RequestMapping(value = "/memModify", method = RequestMethod.POST)
 	public ModelAndView memModify(Member member) {
