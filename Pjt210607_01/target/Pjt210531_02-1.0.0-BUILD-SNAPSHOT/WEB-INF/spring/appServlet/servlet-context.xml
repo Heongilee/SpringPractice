@@ -21,7 +21,7 @@
 		<beans:property name="suffix" value=".jsp" />
 	</beans:bean>
 	
-	<context:component-scan base-package="com.springDev.Pjt210607_01" />
+	<context:component-scan base-package="com.springDev.Pjt210531_02" />
 	
 	<interceptors>
 		<interceptor>
@@ -37,7 +37,7 @@
 			<exclude-mapping path="/member/modify"/>
 			<exclude-mapping path="/member/remove"/>
 			-->
-			<beans:bean class="com.springDev.Pjt210607_01.member.MemberLoginInterceptor"/>
+			<beans:bean class="com.springDev.Pjt210531_02.member.MemberLoginInterceptor"/>
 		</interceptor>
 	</interceptors>
 	
