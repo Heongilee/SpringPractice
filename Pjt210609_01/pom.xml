@@ -20,6 +20,10 @@
             <name>ORACLE JDBC Repository</name>
             <url>http://maven.jahia.org/maven2</url>
         </repository>
+		<repository>
+			<id>c3p0</id>
+			<url>https://mvnrepository.com/artifact/com.mchange/c3p0</url>
+		</repository>
     </repositories>
     
 	<dependencies>
@@ -132,6 +136,18 @@
             <artifactId>ojdbc6</artifactId>
             <version>12.1.0.2</version>
         </dependency>
+
+		<!-- Jdbc Template -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-jdbc</artifactId>
+			<version>4.3.18.RELEASE</version>
+		</dependency>
+		<dependency>
+			<groupId>com.mchange</groupId>
+			<artifactId>c3p0</artifactId>
+			<version>0.9.5.5</version>
+		</dependency>
 		      
 	</dependencies>
     <build>
